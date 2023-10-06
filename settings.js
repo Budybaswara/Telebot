@@ -18,7 +18,7 @@ global.APIKeys = {
 global.language = indonesia //change indonesia to english if you don't understand the language used by the bot
 
 global.BOT_TOKEN = "6422199733:AAH_mz7r1wWrUkZ3dcNtu0HYug4pCb_Le9o" //create bot here https://t.me/BotFather and get the bot token
-global.BOT_NAME = "Wariorvip_bot" //your bot name
+global.BOT_NAME = "Warior" //your bot name
 global.OWNER_NAME = "Billgateoff" //your name
 global.OWNER_NUMBER = "6282397940522" //your telegram number
 global.OWNER = ["https://t.me/Billgateoff", "https://t.me/Billgateoff"] // pastikan username sudah sesuai agar fitur khusus owner bisa di pakai
